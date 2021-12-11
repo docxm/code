@@ -2,8 +2,6 @@
 La critique littéraire vise à <b>relever les qualités et les défauts</b> d’un livre.
 Faire une critique, c’est <b>justifier de manière convaincante et personnelle son opinion</b>. C’est aussi un moyen de <b>partager son avis</b> avec d’autres.
 	<br /> <br />
-
-	<br /><br />
 <h3><b><u>I - Présentation du livre</u></b></h3>
 <br />
 <form name="titre">
